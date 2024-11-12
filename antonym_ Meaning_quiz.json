@@ -4,6 +4,8 @@
               "levelname": "المستوي الأول",
               "TypeQuiz": "letter",
               "isComplete": "true",
+              "image": "",
+             "instruct": "",
               "question": [
                 {"quest": "مرادف اتقوا","correctanswer": "ابتعدوا"},
                 {"quest": "مضاد اتقوا","correctanswer": "اقتربوا"},
@@ -24,6 +26,8 @@
              "levelname": "المستوي الثاني",
              "TypeQuiz": "letterSquare",
              "isComplete": "false",
+               "image": "",
+             "instruct": "",
              "question": [
                {"quest": "مرادف انخفضت","correctanswer":"نزلت"},
                {"quest": "مرادف دون","correctanswer":"تحت"},
@@ -44,6 +48,8 @@
             "levelname": "المستوي الثالث",
             "TypeQuiz": "words",
             "isComplete": "false",
+               "image": "",
+             "instruct": "",
             "question": [
               {"quest": "مرادف أخذت","chooses":["انتهت","عملت","مسكت","بدأت"],"correctanswer": "بدأت"},
               {"quest": "مرادف يشكلون","chooses":["يصنعون","يعملون","يمشون","يقولون"],"correctanswer": "يصنعون"},
