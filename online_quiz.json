@@ -4,6 +4,8 @@
       "levelname": "المستوي الأول",
       "TypeQuiz": "image",
       "isComplete": "true",
+     "image": "",
+             "instruct": "",
       "question": [
         
         {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","correctanswer": "مصر"},
@@ -16,6 +18,8 @@
            "levelname": "المستوى الثانى",
            "TypeQuiz": "image",
            "isComplete": "false",
+           "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600404.us.archive.org/35/items/india_202405/india.jpg","correctanswer": "الهند"},
@@ -32,6 +36,8 @@
            "levelname": "المستوى الثالث",
            "TypeQuiz": "image",
            "isComplete": "false",
+         "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "لقب  بامير الشعراء","image": "https://ia902905.us.archive.org/18/items/20240523_20240523_1736/%D8%A7%D8%AD%D9%85%D8%AF.jpg","correctanswer": "احمد شوقى"},
@@ -47,6 +53,8 @@
            "levelname": "المستوى الرابع",
            "TypeQuiz": "image",
            "isComplete": "false",
+         "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "من قام ببناءالمعلم السياحى","image": "https://ia902906.us.archive.org/11/items/20240524_20240524_1054/%D8%AE.jpg","correctanswer": "خليفةبنزايد"},
@@ -62,6 +70,8 @@
            "levelname": "المستوى الخامس",
            "TypeQuiz": "image",
            "isComplete": "false",
+         "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "","image": "https://ia600404.us.archive.org/4/items/92-2_20240524/92-2.jpg","correctanswer": "الدخان"},
@@ -76,6 +86,8 @@
            "levelname": "المستوى السادس",
            "TypeQuiz": "image",
            "isComplete": "false",
+         "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "","image": "https://ia600700.us.archive.org/31/items/maxresdefault-3-1_202405/maxresdefault-3%20%281%29.jpg","correctanswer": "العمر"},
@@ -89,6 +101,8 @@
            "levelname": "المستوى السابع",
            "TypeQuiz": "image",
            "isComplete": "false",
+         "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "اوجدالاختلاف","image": "https://ia600402.us.archive.org/4/items/maxresdefault-5_202405/maxresdefault%20%285%29.jpg","correctanswer": "النجمة"},
@@ -104,6 +118,8 @@
            "levelname": "المستوى  الثامن",
            "TypeQuiz": "image",
            "isComplete": "false",
+         "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "اوجدالاختلاف","image": "https://archive.org/download/2316-1/2316-1.jpg","correctanswer": "الجبنة"},
@@ -120,6 +136,8 @@
            "levelname": "المستوى  التاسع",
            "TypeQuiz": "image",
            "isComplete": "false",
+            "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "اوجدالاختلاف","image": "https://ia902907.us.archive.org/33/items/maxresdefault-8_202405/maxresdefault%20%288%29.jpg","correctanswer": "التاج"},
@@ -134,6 +152,8 @@
            "levelname": "المستوى العاشر",
            "TypeQuiz": "image",
            "isComplete": "false",
+           "image": "",
+           "instruct": "",
            "question": [
              
              {"quest": "اوجدالاختلاف","image": "https://ia802906.us.archive.org/10/items/th-5_20240524/th%20%285%29.jpg","correctanswer": "الكتاب"},
@@ -149,6 +169,8 @@
             "levelname": "المستوي الحادي عشر",
             "TypeQuiz": "letter",
             "isComplete": "false",
+            "image": "",
+           "instruct": "",
             "question": [
               {"quest": "ما اسم الطائر الذي يعرف أنه صديق البحارين؟","correctanswer": "النورس"},
               {"quest": "متى تم الغاء الخلافة الاسلامية؟","correctanswer": "1924"},
@@ -167,6 +189,8 @@
             "levelname": "المستوي الثاني عشر",
             "TypeQuiz": "letterSquare",
             "isComplete": "false",
+            "image": "",
+            "instruct": "",
             "question": [
               {"quest": "ما هي أسرع سمكة بحرية؟","correctanswer":"أبومنشار"},
               {"quest": "ماذا يطلق على ابن الذئب؟","correctanswer":"الغلو"},
@@ -184,6 +208,8 @@
             "levelname": "المستوي الثالث عشر",
             "TypeQuiz": "words",
             "isComplete": "false",
+             "image": "",
+           "instruct": "",
             "question": [
               {"quest": "من هي عالمة الذرة المصرية التي قـُـتِلت عام (1952) م في أمريكا في حادث سيارة ؟","chooses":["فوزية فهيم","صفية زغلول","هوي شعراوي","سميرة موسي"],"correctanswer": "سميرة موسي"},
               {"quest": "من هي الدولة الأولى التي أقرّت بحق المرأة في الإنتخاب, ومنحها هذا الحق؟","chooses":["السويد","فرنسا","انجلترا","سويسرا"],"correctanswer": "سويسرا"},
