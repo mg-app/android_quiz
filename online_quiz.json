@@ -1,0 +1,211 @@
+{
+  "levelquest": [
+  {
+      "levelname": "المستوي الأول",
+      "TypeQuiz": "image",
+      "isComplete": "true",
+      "question": [
+        
+        {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","correctanswer": "مصر"},
+        {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","correctanswer": "ايطاليا"}
+       
+      ]
+
+    },
+      {
+           "levelname": "المستوى الثانى",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600404.us.archive.org/35/items/india_202405/india.jpg","correctanswer": "الهند"},
+             {"quest": "خمن الصورة فى اى دولة","image": "https://ia902906.us.archive.org/27/items/dubia_202405/dubia.jpg","correctanswer": "دبى"},
+             {"quest": "حل اللغز","image": "https://ia600403.us.archive.org/21/items/nn_20240522/nn.jpg","correctanswer": "السنارة"},
+             {"quest": "اين ولد","image": "https://ia904701.us.archive.org/29/items/20240522_20240522_1946/%D8%AC.jpg","correctanswer": "الكوفة"},
+             {"quest": "من صاحب هذه الصورة","image": "https://ia902906.us.archive.org/30/items/20240523_20240523_1642/%D8%A7%D9%8A%D9%86%D9%8A%D8%B4%20%D8%AA%D8%A7%D9%8A%D9%86.jpg","correctanswer": "اينشتاين"},
+             {"quest": "لقب بابو الطب","image": "https://ia904701.us.archive.org/23/items/20240523_20240523_1721/%D8%A7%D8%A8%D9%86%20%D8%B3%D9%8A%D8%AA%D8%A7%D8%A1.jpg","correctanswer": "ابن سيناء"},
+             {"quest": "متى تاسس الاتحادالعام للصحفيين العرب","image": "https://ia803402.us.archive.org/2/items/20240524_20240524_1007/%D8%AD%D8%B1%D9%8A%D8%A9.jpg","correctanswer": "1964"}
+
+             
+           ]
+      }, {
+           "levelname": "المستوى الثالث",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "لقب  بامير الشعراء","image": "https://ia902905.us.archive.org/18/items/20240523_20240523_1736/%D8%A7%D8%AD%D9%85%D8%AF.jpg","correctanswer": "احمد شوقى"},
+             {"quest": "لقب بشاعر النيل","image": "https://ia902907.us.archive.org/30/items/e-1585516176516/%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-e1585516176516.jpg","correctanswer": "حافظ ابراهيم"},
+             {"quest": "قم بحذف اخر حرف من اسم امير","image": "https://ia902906.us.archive.org/28/items/20240523_20240523_1851/%D8%A7%D8%B3%D9%85%20%D9%88%D9%84%D8%AF.jpg","correctanswer": "امى"},
+             {"quest": "بحبة البنات ويكرهة الولاد","image": "https://ia600404.us.archive.org/14/items/20240523_20240523_1902/%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1.jpg","correctanswer": "الحناء"},
+             {"quest": "احدث نهضة عالمية فى الاسلام","image": "https://ia903200.us.archive.org/14/items/20240524_20240524_0909/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF%D9%87.jpg","correctanswer": "محمدعبده"},
+             {"quest": "ماهو هذا الشى","image": "https://ia902906.us.archive.org/32/items/20240524_20240524_1045/%D8%AA%D9%84%D8%A8%D8%B3%D8%A9%20%D9%84%D8%A7%20%D8%AA%D8%B1%D8%A7%D8%A9.jpg","correctanswer": "الكفن"},
+             {"quest": "خمن","image": "https://ia903404.us.archive.org/20/items/1-1_20240524/%D8%A3%D9%84%D8%BA%D8%A7%D8%B21-1.jpg","correctanswer": "الام"}
+
+             ]
+              }, {
+           "levelname": "المستوى الرابع",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "من قام ببناءالمعلم السياحى","image": "https://ia902906.us.archive.org/11/items/20240524_20240524_1054/%D8%AE.jpg","correctanswer": "خليفةبنزايد"},
+             {"quest": "","image": "https://ia800404.us.archive.org/25/items/20240524_20240524_1100/%D8%A7%D9%84%D8%B4%D9%8A%D9%89.jpg","correctanswer": "الساعة"},
+             {"quest": "اختبر ذكائك","image": "","correctanswer": ""},
+             {"quest": "اين يقع هذاالمعلم ","image": "https://ia903402.us.archive.org/5/items/th_20240524/th.jpg","correctanswer": "لندن"},
+             {"quest": "متى بنى هذا المعلم السياحى","image": "https://ia600401.us.archive.org/22/items/th-10_202405/th%20%2810%29.jpg","correctanswer": "2000"},
+             {"quest": "خمن","image": "https://ia600401.us.archive.org/4/items/20240524_20240524_1531/%D8%AA%D9%85%D8%B3%D9%83%D8%A9.jpg","correctanswer": "اعصابك"},
+             {"quest": "خمن","image": "https://ia600401.us.archive.org/29/items/10_20240524_20240524_1536/%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-10.jpg","correctanswer": "الخفافيش"}
+             
+           ]
+      }, {
+           "levelname": "المستوى الخامس",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "","image": "https://ia600404.us.archive.org/4/items/92-2_20240524/92-2.jpg","correctanswer": "الدخان"},
+             {"quest": "","image": "https://ia600404.us.archive.org/32/items/th-1_20240524/th%20%281%29.jpg","correctanswer": "الفندق"},
+             {"quest": "","image": "https://ia902907.us.archive.org/4/items/maxresdefault-1_20240524/maxresdefault%20%281%29.jpg","correctanswer": "صدى الصوت"},
+             {"quest": "","image": "https://ia903403.us.archive.org/35/items/th-2_20240524/th%20%282%29.jpg","correctanswer": "الكوع الايمن"},
+             {"quest": "","image": "https://ia903200.us.archive.org/15/items/hqdefault-1_202405/hqdefault%20%281%29.jpg","correctanswer": "السحابة"},
+             {"quest": "","image": "https://ia904701.us.archive.org/27/items/img-20200503-wa-0017/IMG-20200503-WA0017.jpg","correctanswer": "الطريق"}
+
+              ]
+             }, {
+           "levelname": "المستوى السادس",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "","image": "https://ia600700.us.archive.org/31/items/maxresdefault-3-1_202405/maxresdefault-3%20%281%29.jpg","correctanswer": "العمر"},
+             {"quest": "","image": "https://ia802906.us.archive.org/6/items/maxresdefault-2_202405/maxresdefault%20%282%29.jpg","correctanswer": "الطبق"},
+             {"quest": "","image": "https://ia600402.us.archive.org/30/items/maxresdefault-3_20240524/maxresdefault%20%283%29.jpg","correctanswer": "الفار"},
+             {"quest": "","image": "https://ia904709.us.archive.org/13/items/maxresdefault-4_20240524/maxresdefault%20%284%29.jpg","correctanswer": "ثعبان سيدنا موسى"},
+             {"quest": "","image": "https://ia903404.us.archive.org/33/items/th_20240524_202405/th%20%D8%A7%D9%85%D9%85%D9%85.jpg","correctanswer": "القلم"}
+             ]
+         
+                 }, {
+           "levelname": "المستوى السابع",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "اوجدالاختلاف","image": "https://ia600402.us.archive.org/4/items/maxresdefault-5_202405/maxresdefault%20%285%29.jpg","correctanswer": "النجمة"},
+             {"quest": "من هو","image": "https://ia600404.us.archive.org/9/items/753-5020-mahatma-gandhi-1/753-5020Mahatma-Gandhi1.jpg","correctanswer": "غاندى"},
+             {"quest": "متى ولد","image": "https://ia903200.us.archive.org/12/items/20240524_20240524_1751/%D8%A3%D9%8A%D9%86_%D9%88%D9%84%D8%AF_%D8%A3%D8%AD%D9%85%D8%AF_%D8%B2%D9%88%D9%8A%D9%84.jpg","correctanswer": "1946"},
+             {"quest": "فى اى دولة تقع","image": "https://archive.org/download/51712/51712.jpg","correctanswer": "الامارات"},
+             {"quest": "فى اى عام تم بناءه","image": "https://ia600403.us.archive.org/15/items/la-tour-effel/la%20tour%20effel.jpg","correctanswer": "1887"},
+             {"quest": "ماهو المثل","image": "https://ia902305.us.archive.org/6/items/1-1_20240524_202405/%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82-%D9%88%D9%82%D8%AA-%D8%A7%D9%84%D8%B6%D9%8A%D9%821-1.jpg","correctanswer": "الصديق وقت الضيق"},
+             {"quest": "اين ولد","image": "https://ia600402.us.archive.org/25/items/th-3_20240524/th%20%283%29.jpg","correctanswer": "القاهرة"}
+
+              ]
+                 }, {
+           "levelname": "المستوى  الثامن",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "اوجدالاختلاف","image": "https://archive.org/download/2316-1/2316-1.jpg","correctanswer": "الجبنة"},
+             {"quest": "من هو","image": "https://ia903404.us.archive.org/25/items/111036919-p-01h-15zf/_111036919_p01h15zf.jpg","correctanswer": "مجدى يعقوب"},
+             {"quest": "متى ولد","image": "https://ia600403.us.archive.org/5/items/20240524_20240524_1825/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A8%D8%A7%D8%B4%D8%A7.jpg","correctanswer": "1769"},
+             {"quest": "فى اى دولة تقع","image": "https://ia600402.us.archive.org/15/items/th-9_20240524/th%20%289%29.jpg","correctanswer": "مصر"},
+             {"quest": "فى اى عام تم بناءه","image": "https://ia904709.us.archive.org/8/items/th-4_20240524/th%20%284%29.jpg","correctanswer": "1897"},
+             {"quest": "خمن مثل مناسب","image": "https://archive.org/download/c5d58f86d98f5ea958773e1084cef476/c5d58f86d98f5ea958773e1084cef476.jpg","correctanswer": "زينة المراة حياؤها"},
+             {"quest": "اين ولد","image": "https://ia902905.us.archive.org/20/items/1-2_20240524/%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B1%D9%8A%D8%AD%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B1%D9%88%D9%86%D9%8A-1%20%282.jpg","correctanswer": "العراق"}
+
+              ]
+                 },
+                 {
+           "levelname": "المستوى  التاسع",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "اوجدالاختلاف","image": "https://ia902907.us.archive.org/33/items/maxresdefault-8_202405/maxresdefault%20%288%29.jpg","correctanswer": "التاج"},
+             {"quest": "من هو","image": "https://ia600400.us.archive.org/22/items/1_20240524_20240524_1933/%D8%B5%D9%88%D8%B1-%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%85%D8%A7%D9%85%20%281%29.jpg","correctanswer": "عادل امام"},
+             {"quest": "متى ولد","image": "https://ia600402.us.archive.org/22/items/20240524_20240524_1943/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%86_%D9%82%D8%B1%D8%A9.jpg","correctanswer": "836"},
+             {"quest": "فى اى دولة تقع","image": "https://ia600405.us.archive.org/8/items/maxresdefault-6_202405/maxresdefault%20%286%29.jpg","correctanswer": "اسبانيا"},
+             {"quest": "فى اى عام تم بناءه","image": "https://ia904701.us.archive.org/34/items/38862-1/38862_1.jpg","correctanswer": "2020"},
+             {"quest": "اين ولد","image": "https://archive.org/download/9-most-important-scientific-achievements-ibn-al-haytham/9-most-important-scientific-achievements-ibn-al-haytham.jpg","correctanswer": "العراق"}
+
+              ]
+                  }, {
+           "levelname": "المستوى العاشر",
+           "TypeQuiz": "image",
+           "isComplete": "false",
+           "question": [
+             
+             {"quest": "اوجدالاختلاف","image": "https://ia802906.us.archive.org/10/items/th-5_20240524/th%20%285%29.jpg","correctanswer": "الكتاب"},
+             {"quest": "متى ولد","image": "https://archive.org/download/12201818125619196418636/12201818125619196418636.jpg","correctanswer": "1918"},
+             {"quest": "فى اى دولة تقع","image": "https://ia904701.us.archive.org/23/items/th-6_20240524/th%20%286%29.jpg","correctanswer": "السعودية"},
+             {"quest": "فى اى عام تم بناءه","image": "https://ia600402.us.archive.org/34/items/th-7_20240524/th%20%287%29.jpg","correctanswer": "1956"},
+             {"quest": "من هو","image": "https://ia802907.us.archive.org/30/items/th-8_20240524/th%20%288%29.jpg","correctanswer": "مصطفى السيد"},
+             {"quest": "اين ولد","image": "https://ia803409.us.archive.org/28/items/20240524_20240524_2019/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA.jpg","correctanswer": "المنوفية"}
+             ]
+
+              },
+              {
+            "levelname": "المستوي الحادي عشر",
+            "TypeQuiz": "letter",
+            "isComplete": "false",
+            "question": [
+              {"quest": "ما اسم الطائر الذي يعرف أنه صديق البحارين؟","correctanswer": "النورس"},
+              {"quest": "متى تم الغاء الخلافة الاسلامية؟","correctanswer": "1924"},
+              {"quest": "متى اول مرة تم حرق المسجد الاقصى؟","correctanswer": "1969"},
+              {"quest": "ما هي أول دولة أستخدمت الطوابع؟","correctanswer": "انجلترا"},
+              {"quest": "كم يزن وزن فرس النهر بالطن؟","correctanswer": "2"},
+              {"quest": "كم يصل أعداد أسنان الجمل؟","correctanswer": "34"},
+              {"quest": "ماذا كان يعمل الفنان المصري يحيي الفخراني قبل الدخول في التمثيل؟","correctanswer": "طبيب"},
+              {"quest": "من شارك في تمثيل فيلم صعيدي في الجامعة الأمريكية؟","correctanswer": "محمد هنيدي"},
+              {"quest": "من هو بطل مسلسل طاش ما طاش؟","correctanswer": "ناصر القصبي"},
+              {"quest": "ما هي أصغر دولة عربية من حيث المساحة ؟","correctanswer": "البحرين"}
+            ]
+      
+          },
+           {
+            "levelname": "المستوي الثاني عشر",
+            "TypeQuiz": "letterSquare",
+            "isComplete": "false",
+            "question": [
+              {"quest": "ما هي أسرع سمكة بحرية؟","correctanswer":"أبومنشار"},
+              {"quest": "ماذا يطلق على ابن الذئب؟","correctanswer":"الغلو"},
+              {"quest": "من هو الحيوان الذي يضرب به المثل في الوفاء؟","correctanswer":"الكلب"},
+              {"quest": "ماذا يطلق على صوت النسر؟","correctanswer":"صفير"},
+              {"quest": "في أي مكان يوجد وادي الموت ؟","correctanswer":"كاليفورنيا"},
+              {"quest": "متى تم استخدام الهَلْال الأحمر بدلاً من الصليب الأحمر في البلدان الإسلامية ؟","correctanswer":"1876"},
+              {"quest": "في أي عام بدأ الإرسال في إذاعة القاهرة ؟","correctanswer":"١٩٣٤"},
+              {"quest": "أين يقع المسجد الأزرق؟","correctanswer":"اسطنبول"},
+              {"quest": "ما هي البلد التي حدث بها أكبر مجاعة في العالم؟","correctanswer":"الصين"}
+            ]
+      
+          },
+          {
+            "levelname": "المستوي الثالث عشر",
+            "TypeQuiz": "words",
+            "isComplete": "false",
+            "question": [
+              {"quest": "من هي عالمة الذرة المصرية التي قـُـتِلت عام (1952) م في أمريكا في حادث سيارة ؟","chooses":["فوزية فهيم","صفية زغلول","هوي شعراوي","سميرة موسي"],"correctanswer": "سميرة موسي"},
+              {"quest": "من هي الدولة الأولى التي أقرّت بحق المرأة في الإنتخاب, ومنحها هذا الحق؟","chooses":["السويد","فرنسا","انجلترا","سويسرا"],"correctanswer": "سويسرا"},
+              {"quest": "فى أى عام تم تحديد خط الطول جرينتش كمقياس لخطوط الطول الأخرى","chooses":["1858","1884","1866","1885"],"correctanswer": "1884"},
+              {"quest": "اقوى الحيونات ذاكرة؟","chooses":["الحمار","الجمل","الحصان","الكلب"],"correctanswer": "الجمل"},
+              {"quest": "من الكتب السماوية الزبور على من انزل ؟","chooses":["داوود","عيسي","اسماعيل","سليمان"],"correctanswer": "داوود"},
+              {"quest": "ما اسم العالم العربي الذي يعد أول من ابتكر خيوط الجراحة ووصف الجدري والحصبة؟","chooses":["بن سينا","بن حيان","البيروني","أبو بكر الرازي"],"correctanswer": "أبو بكر الرازي"},
+              {"quest": "ما اسم مخترع الآلة الحاسبة؟","chooses":["فاراداي","نيوتن","ادسون","بليز باسكال"],"correctanswer": "بليز باسكال"},
+              {"quest": "ما اسم الحيوان الذي كان يأنس البشر قديماً؟","chooses":["البقرة","الخروف","الكلب","الجمل"],"correctanswer": "الخروف"},
+              {"quest": "ما اسم الحيوان الذي لا يمكنه أن يعيش إلا بالقطب الجنوبي؟","chooses":["التمساح","البطاريق","الدب","القرد"],"correctanswer": "البطاريق"},
+              {"quest": "كم يبلغ عدد الأولاد التي تضعها أنثى الأرنب بالمرة الواحدة فقط؟","chooses":["9","5","6","8"],"correctanswer": "9"}
+            ]
+      
+          }
+
+         
+         
+       
+   
+
+ 
+  ]
+
+
+}
