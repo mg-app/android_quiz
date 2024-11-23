@@ -1,0 +1,112 @@
+{
+  "levelquest": [
+    {
+      "levelname": "Level 1",
+      "TypeQuiz": "image",
+      "isComplete": "true",
+      "image": "",
+      "instruct": "",
+      "question": [
+        {
+          "quest": "In which country is this tourist landmark located?",
+          "image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG",
+          "correctanswer": "Egypt"
+        },
+        {
+          "quest": "It is known as the Leaning Tower of Pisa. Where is it located?",
+          "image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg",
+          "correctanswer": "Italy"
+        }
+      ]
+    },
+    {
+      "levelname": "Level 2",
+      "TypeQuiz": "image",
+      "isComplete": "false",
+      "image": "",
+      "instruct": "",
+      "question": [
+        {
+          "quest": "In which country is this tourist landmark located?",
+          "image": "https://ia600404.us.archive.org/35/items/india_202405/india.jpg",
+          "correctanswer": "India"
+        },
+        {
+          "quest": "Guess the country in the picture.",
+          "image": "https://ia902906.us.archive.org/27/items/dubia_202405/dubia.jpg",
+          "correctanswer": "Dubai"
+        },
+        {
+          "quest": "Solve the riddle.",
+          "image": "https://ia600403.us.archive.org/21/items/nn_20240522/nn.jpg",
+          "correctanswer": "Fishing Rod"
+        },
+        {
+          "quest": "Where was he born?",
+          "image": "https://ia904701.us.archive.org/29/items/20240522_20240522_1946/%D8%AC.jpg",
+          "correctanswer": "Kufa"
+        },
+        {
+          "quest": "Who is in this picture?",
+          "image": "https://ia902906.us.archive.org/30/items/20240523_20240523_1642/%D8%A7%D9%8A%D9%86%D9%8A%D8%B4%20%D8%AA%D8%A7%D9%8A%D9%86.jpg",
+          "correctanswer": "Einstein"
+        },
+        {
+          "quest": "Known as the 'Father of Medicine,' who is this?",
+          "image": "https://ia904701.us.archive.org/23/items/20240523_20240523_1721/%D8%A7%D8%A8%D9%86%20%D8%B3%D9%8A%D8%AA%D8%A7%D8%A1.jpg",
+          "correctanswer": "Avicenna"
+        },
+        {
+          "quest": "When was the General Union of Arab Journalists established?",
+          "image": "https://ia803402.us.archive.org/2/items/20240524_20240524_1007/%D8%AD%D8%B1%D9%8A%D8%A9.jpg",
+          "correctanswer": "1964"
+        }
+      ]
+    },
+    {
+      "levelname": "Level 3",
+      "TypeQuiz": "image",
+      "isComplete": "false",
+      "image": "",
+      "instruct": "",
+      "question": [
+        {
+          "quest": "Known as the 'Prince of Poets,' who is he?",
+          "image": "https://ia902905.us.archive.org/18/items/20240523_20240523_1736/%D8%A7%D8%AD%D9%85%D8%AF.jpg",
+          "correctanswer": "Ahmed Shawqi"
+        },
+        {
+          "quest": "Known as the 'Poet of the Nile,' who is he?",
+          "image": "https://ia902907.us.archive.org/30/items/e-1585516176516/%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-e1585516176516.jpg",
+          "correctanswer": "Hafez Ibrahim"
+        },
+        {
+          "quest": "Remove the last letter from 'Amir' (Prince).",
+          "image": "https://ia902906.us.archive.org/28/items/20240523_20240523_1851/%D8%A7%D8%B3%D9%85%20%D9%88%D9%84%D8%AF.jpg",
+          "correctanswer": "Ami (Mother)"
+        },
+        {
+          "quest": "Girls love it, but boys dislike it. What is it?",
+          "image": "https://ia600404.us.archive.org/14/items/20240523_20240523_1902/%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1.jpg",
+          "correctanswer": "Henna"
+        },
+        {
+          "quest": "Who led the Islamic Renaissance?",
+          "image": "https://ia903200.us.archive.org/14/items/20240524_20240524_0909/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF%D9%87.jpg",
+          "correctanswer": "Mohammed Abduh"
+        },
+        {
+          "quest": "What is this thing?",
+          "image": "https://ia902906.us.archive.org/32/items/20240524_20240524_1045/%D8%AA%D9%84%D8%A8%D8%B3%D8%A9%20%D9%84%D8%A7%20%D8%AA%D8%B1%D8%A7%D8%A9.jpg",
+          "correctanswer": "Shroud"
+        },
+        {
+          "quest": "Guess.",
+          "image": "https://ia903404.us.archive.org/20/items/1-1_20240524/%D8%A3%D9%84%D8%BA%D8%A7%D8%B21-1.jpg",
+          "correctanswer": "Mother"
+        }
+      ]
+    }
+
+  ]
+}
